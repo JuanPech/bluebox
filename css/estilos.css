@@ -1,0 +1,187 @@
+#header-top{
+	margin-top: 30px;	
+	padding-left: 200px;
+}
+#menu-header{
+	margin-top: 10px;
+	padding-right: 0px;
+    padding-left: 30px;
+}
+#menu-subheader{
+    padding-left: 170px;
+}
+#buscador-header{
+	margin-top: 10px;
+	padding-left: 0px;
+}
+.row{
+	left: 22px;
+}
+#menu-header nav ul li{
+	list-style:none;
+ 	display: inline-block;
+}
+#menu-header nav ul li a{
+	text-decoration: none; color: #626262; font-size: 15px;  padding: 0px 20px; border-right: 2px solid #626262;
+	font-family: 'PT Sans', sans-serif;
+}#menu-header .work-activo{
+	color:#00aeff;
+}
+#menu-header nav ul li a:hover{
+	color:#00aeff;
+}
+#menu-header nav ul li:last-child a{
+ border-right: none; border-right: 0px;
+}
+input{
+	width: 20%;
+}
+button{
+	background-color: #ffffff;
+	border:none;
+}
+
+/*------------------------------------------inicio Gris-----------------------------------------------------*/
+#header-2{
+	margin-top: 30px;
+	background-color: #e2e7ed;
+	padding-bottom: 20px;
+	padding-left: 210px;
+}
+#see h2{
+	margin-top: 30px;
+	text-decoration: none;  color: #626262; font-size: 44.88px; 	  
+	font-family: 'PT Sans', sans-serif;
+}
+
+#menu-subheader nav ul li{
+	margin-top: 40px;
+display: inline-block; 
+}#menu-subheader nav ul li a{
+	text-decoration: none;  color: #626262; font-size: 15px;  padding: 0px 20px; 
+	font-family: 'PT Sans', sans-serif;
+}
+
+/*----------------------------------------inicio Morado------------------------------------------------*/
+
+#header-3{
+	background-color: #908ef3;
+}
+#header-3{
+	padding-left: 210px;
+}
+#header-3 .row{
+	padding-bottom: 40px;
+}
+
+h4{
+	color: #000000; font-size: 20px; 
+	font-family: 'PT Sans', sans-serif;
+}
+p{
+	color: #000000;
+	padding-right: 0px;
+	font-size: 15px; 
+	font-family: 'PT Sans', sans-serif;
+}
+h3{
+	padding: 30px 22px;	
+	color: #ffffff; font-size: 30px; 
+	font-family: 'PT Sans', sans-serif;
+}
+/*-------------------------------------------inicio Verde-------------------------------------------------------*/
+
+#header-4{
+	background-color: #58d99c;
+}
+#header-4{
+	padding-left: 210px;
+}
+#header-4 .row{
+	padding-bottom: 40px;
+}
+
+
+/*-------------------------------------------inicio Rojo-------------------------------------------------------*/
+
+
+#header-5{
+	background-color: #f4776d;
+}
+#header-5{
+	padding-left: 210px;
+}
+#header-5 .row{
+	padding-bottom: 40px;
+}
+
+/*-------------------------------------------inicio amarillo-------------------------------------------------------*/
+
+
+#header-6{
+	background-color: #edca52;
+}
+#header-6{
+	padding-left: 200px;
+}
+#header-6 .row{
+	padding-bottom: 40px;
+}
+
+
+/*-------------------------------------------inicio negro-------------------------------------------------------*/
+
+#header-7{
+	background-color: #31333e;
+	padding-bottom: 50px;
+}
+#header-7{
+	padding-left: 210px;
+}
+#header-parte1{
+	margin-top: 30px;
+}
+#menu7 nav ul{
+	margin-bottom: 10px;
+}
+#menu7 nav ul li{
+	list-style:none;
+ 	display: inline-block;
+}
+#menu7 nav ul li a{
+	text-decoration: none; color: #ffffff; font-size: 15px;  padding: 0px 10px; border-right: 2px solid #ffffff;
+	font-family: 'PT Sans', sans-serif;
+}
+#menu7 nav ul li a:hover{
+	color:#00aeff;
+}
+#menu7 nav ul li:last-child a{
+ border-right: none; border-right: 0px;	
+}
+#texto7{
+	padding-left: 45px;
+}
+#texto7 h6{
+	color: #ffffff; font-size: 15px;
+	font-family: 'PT Sans', sans-serif;
+}
+#texto7 p{
+	color: #ffffff; font-size: 12px;
+	font-family: 'PT Sans', sans-serif;
+}
+#header-parte2 {
+	
+	padding: 20px 270px;
+	text-decoration: none;
+
+}
+#sociales nav ul li{
+	
+	font-size: 37px;
+	list-style:none;
+ 	display: inline-block;
+ 
+}
+
+
+
