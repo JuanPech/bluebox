@@ -8,14 +8,11 @@
     padding-left: 30px;
 }
 #menu-subheader{
-    padding-left: 170px;
+    padding-left: 90px;
 }
 #buscador-header{
 	margin-top: 10px;
 	padding-left: 0px;
-}
-.row{
-	left: 22px;
 }
 #menu-header nav ul li{
 	list-style:none;
@@ -34,7 +31,7 @@
  border-right: none; border-right: 0px;
 }
 input{
-	width: 20%;
+	width: 42%;
 }
 button{
 	background-color: #ffffff;
@@ -45,7 +42,7 @@ button{
 #header-2{
 	margin-top: 30px;
 	background-color: #e2e7ed;
-	padding-bottom: 20px;
+	padding-bottom: 30px;
 	padding-left: 210px;
 }
 #see h2{
@@ -57,7 +54,8 @@ button{
 #menu-subheader nav ul li{
 	margin-top: 40px;
 display: inline-block; 
-}#menu-subheader nav ul li a{
+}
+#menu-subheader nav ul li a{
 	text-decoration: none;  color: #626262; font-size: 15px;  padding: 0px 20px; 
 	font-family: 'PT Sans', sans-serif;
 }
@@ -68,10 +66,7 @@ display: inline-block;
 	background-color: #908ef3;
 }
 #header-3{
-	padding-left: 210px;
-}
-#header-3 .row{
-	padding-bottom: 40px;
+	padding-left: 200px;
 }
 
 h4{
@@ -85,7 +80,7 @@ p{
 	font-family: 'PT Sans', sans-serif;
 }
 h3{
-	padding: 30px 22px;	
+	padding: 30px 0px;	
 	color: #ffffff; font-size: 30px; 
 	font-family: 'PT Sans', sans-serif;
 }
@@ -95,7 +90,7 @@ h3{
 	background-color: #58d99c;
 }
 #header-4{
-	padding-left: 210px;
+	padding-left: 200px;
 }
 #header-4 .row{
 	padding-bottom: 40px;
@@ -109,10 +104,7 @@ h3{
 	background-color: #f4776d;
 }
 #header-5{
-	padding-left: 210px;
-}
-#header-5 .row{
-	padding-bottom: 40px;
+	padding-left: 200px;
 }
 
 /*-------------------------------------------inicio amarillo-------------------------------------------------------*/
@@ -124,9 +116,7 @@ h3{
 #header-6{
 	padding-left: 200px;
 }
-#header-6 .row{
-	padding-bottom: 40px;
-}
+
 
 
 /*-------------------------------------------inicio negro-------------------------------------------------------*/
@@ -136,7 +126,7 @@ h3{
 	padding-bottom: 50px;
 }
 #header-7{
-	padding-left: 210px;
+	padding-left: 167px;
 }
 #header-parte1{
 	margin-top: 30px;
@@ -171,17 +161,11 @@ h3{
 }
 #header-parte2 {
 	
-	padding: 20px 270px;
-	text-decoration: none;
-
+	padding: 20px 325px;
 }
 #sociales nav ul li{
-	
+	border-right:2px;
 	font-size: 37px;
 	list-style:none;
  	display: inline-block;
- 
 }
-
-
-
